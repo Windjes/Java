@@ -1,4 +1,4 @@
-package Strings;
+package HotWork;
 
 public class Separator {
     int array[];
@@ -24,3 +24,4 @@ public class Separator {
         return evens;
     }
 }
+//Some text
